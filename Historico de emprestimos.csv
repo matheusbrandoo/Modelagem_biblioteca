@@ -1,0 +1,2 @@
+"id","id_usuario","id_livro","data_emprestimo","data_devolucao","data_limite","id_status","multa","id_status_pagamento"
+1,1,1,"2024-10-01","2024-12-01","2024-11-01",3,200,2
